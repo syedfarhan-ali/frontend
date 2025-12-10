@@ -11,7 +11,6 @@ function AboutPage() {
         <>
             <Hero />
             <Team />
-            <OpenAccount />
         </>
      );
 }
